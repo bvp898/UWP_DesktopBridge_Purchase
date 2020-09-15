@@ -1,0 +1,2 @@
+MainPackage=E:\OpenSourceVideoPlayers\Purchase_NetDestop\package\bin\AnyCPU\Debug\package_1.0.31.0_AnyCPU_Debug.appx
+SymbolPackage=E:\OpenSourceVideoPlayers\Purchase_NetDestop\package\obj\Debug\Symbols\package_1.0.31.0_AnyCPU_Debug.appxsym

@@ -1,0 +1,17 @@
+[ResourceMetadata]
+"ResourceDimensions"		"scale-200"
+"ResourceDimensions"		"language-zh-cn"
+"ResourceDimensions"		"language-zh-CN"
+
+[Files]
+"E:\OpenSourceVideoPlayers\Purchase_NetDestop\package\obj\Debug\split.pri"			"resources.pri"
+"E:\OpenSourceVideoPlayers\Purchase_NetDestop\package\obj\Debug\PackageLayout\Purchase_NetDestop\System.Runtime.WindowsRuntime.dll"			"Purchase_NetDestop\System.Runtime.WindowsRuntime.dll"
+"E:\OpenSourceVideoPlayers\Purchase_NetDestop\package\obj\Debug\PackageLayout\Purchase_NetDestop\Purchase_NetDestop.exe.config"			"Purchase_NetDestop\Purchase_NetDestop.exe.config"
+"E:\OpenSourceVideoPlayers\Purchase_NetDestop\package\obj\Debug\PackageLayout\Purchase_NetDestop\Purchase_NetDestop.exe"			"Purchase_NetDestop\Purchase_NetDestop.exe"
+"E:\OpenSourceVideoPlayers\Purchase_NetDestop\package\obj\Debug\PackageLayout\Images\Wide310x150Logo.scale-200.png"			"Images\Wide310x150Logo.scale-200.png"
+"E:\OpenSourceVideoPlayers\Purchase_NetDestop\package\obj\Debug\PackageLayout\Images\StoreLogo.png"			"Images\StoreLogo.png"
+"E:\OpenSourceVideoPlayers\Purchase_NetDestop\package\obj\Debug\PackageLayout\Images\Square44x44Logo.targetsize-24_altform-unplated.png"			"Images\Square44x44Logo.targetsize-24_altform-unplated.png"
+"E:\OpenSourceVideoPlayers\Purchase_NetDestop\package\obj\Debug\PackageLayout\Images\Square44x44Logo.scale-200.png"			"Images\Square44x44Logo.scale-200.png"
+"E:\OpenSourceVideoPlayers\Purchase_NetDestop\package\obj\Debug\PackageLayout\Images\Square150x150Logo.scale-200.png"			"Images\Square150x150Logo.scale-200.png"
+"E:\OpenSourceVideoPlayers\Purchase_NetDestop\package\obj\Debug\PackageLayout\Images\SplashScreen.scale-200.png"			"Images\SplashScreen.scale-200.png"
+"E:\OpenSourceVideoPlayers\Purchase_NetDestop\package\obj\Debug\PackageLayout\Images\LockScreenLogo.scale-200.png"			"Images\LockScreenLogo.scale-200.png"
